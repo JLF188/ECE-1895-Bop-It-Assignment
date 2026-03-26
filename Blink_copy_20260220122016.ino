@@ -21,6 +21,3 @@ void loop() {
   }
 
 }
-
-//Ben Trudgen
-
